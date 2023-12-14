@@ -12,26 +12,26 @@ I am not here to make sure you do your job, I am here to make sure you can do yo
 
 My role is to lead people, teams, and organizations to achieve their goals and grow. I want my people to thrive in their whole life, not just at work. I want you to feel happy, healthy, fulfilled, productive, and accomplished. I want you to feel that you are excelling at your job and have all the knowledge you need to be effective and self-sufficient. I am here to support you through all of this.
 
-## 💎 What do I value most?
+## 💎 What do I value most
 
-### What does helping me look like?
+* The whole person. We are not just employees, we're people. How we feel in our work life influences how we feel in our personal life and visa versa. Maintain a healthy balance between work and life. Let your successes in one fuel the other.
+* Growth.
+* Results.
+* Focus. Limit your work in progress (WIP) and focus on what is important.. Prioritizing what you need to do at any given time and limiting how many things you do at once leads to better results.
 
-### What is my process for handling conflicts (and how can you do it yourself)?
+## 🏗️ How I operate
 
-### What weaknesses of mine should the team know about and how can they help me improve?
+* I typically work Monday - Friday, 7am - 4pm Eastern. I am normally unavailable outside of those hours and have work notifications turned off.
+* I am a very organized person.
+* I am extremely forgetful. If I do not write something down there is a good chance I will forget about it.
 
 ## ✅ My Expectations
 
-[DELETE LATER] Try to answer these questions: How should people set time with you? When it comes to mistakes, what's the best way for employees to come forward? How do you define "Done"? When should people be available and how? (e.g. work hours, availability via chat/phone etc.)
-
-## 🗣️ 1:1s
-
-[DELETE LATER]  Try to answer these questions: When do you usually have 1:1s with your team? Who should lead the 1:1 (you or them)? What should be the main focus during that time?
+* Do what you say.
+* Be honest and transparent.
+* Learn and grow.
+* Maintain a healthy balance between work and life. Take care of your mental health.
 
 ## 😈 Personality quirks
 
 [DELETE LATER]  Try to answer this question: What are the individual quirks that anyone working with me should know about? Usually, these quirks are not "good" or "bad", they just part of who you are. It's the small things that people do that gets you extremely happy/excited or extremely upset/nervous within 5 seconds without any good reason.
-
-## 🗓️ Where to focus on your first 90 days?
-
-[DELETE LATER]  Try to answer these questions: What does effective onboarding look like on your team? How can they tell if they're doing a good job in their first 30 days?
