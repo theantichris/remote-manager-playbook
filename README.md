@@ -14,7 +14,11 @@ My role is to lead people, teams, and organizations to achieve their goals and g
 
 ## 💎 What do I value most?
 
-[DELETE LATER] Try to answer these questions: What does helping me look like?  What is my process for handling conflicts? (and how you can do it yourself) How does helping me look like?  What weaknesses of mine should the team know about, and how can they help me improve?
+### What does helping me look like?
+
+### What is my process for handling conflicts (and how can you do it yourself)?
+
+### What weaknesses of mine should the team know about and how can they help me improve?
 
 ## ✅ My Expectations
 
