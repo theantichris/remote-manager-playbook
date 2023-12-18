@@ -6,6 +6,8 @@ Working with a remote, distributed, asynchronous team necessitates a handbook-fi
 
 Transparency is key. I want to ensure my team understands how I work and what is expected. We should all communicate ours values and approach clearly to eliminate any guesswork about my thoughts or what they should be doing.
 
+This playbook is a collection of living documents. I will be updating it as things come up and change. If there is something you would like to see added or clarified let me know.
+
 ## 🥖 My role
 
 I am not here to make sure you do your job, I am here to make sure you can do your job.
@@ -15,13 +17,15 @@ My role is to guide people, teams, and organizations towards achieving their goa
 ## 💎 What do I value most
 
 * Holistic development. We are not just employees, we're people. We are not just employees, we're people. Our work life influences our personal life and vice versa. Strive for a healthy work-life balance. Let your successes in one fuel the other.
-* Growth.
-* Results.
+* Growth mindset. I want to see your grow in your role, in your career, and as a person. Work with me to set and achieve goals for where you want to be.
+* Outcomes and results. Everything we do should be focused on the outcome, we can figure out how to get there together. Start with the results we want and work backwards to figure out the best way to get there.
+* Collaboration. We are all working together to grow and deliver value.
+* Feedback. I am always open to receiving feedback so share it whenever you like and as much as possible. I have no issue with public feedback so feel free to do so whenever the situation comes up.
 
 ## 🏗️ How I operate
 
 * My typical work hours are Monday - Friday, 7am - 4pm Eastern. I am usually unavailable outside these hours, with work notifications turned off.
-* Organization is crucial for me. I rely heavily on my calendar and notebooks.
+* Organization is crucial for me. I rely heavily on my calendar, notebooks, and task lists.
 
 ## ✅ My Expectations
 
