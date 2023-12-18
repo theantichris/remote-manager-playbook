@@ -17,7 +17,6 @@ My role is to guide people, teams, and organizations towards achieving their goa
 * Holistic development. We are not just employees, we're people. We are not just employees, we're people. Our work life influences our personal life and vice versa. Strive for a healthy work-life balance. Let your successes in one fuel the other.
 * Growth.
 * Results.
-* Focus. Limit your work in progress (WIP) and prioritize what is important. Prioritizing tasks and limiting multitasking leads to better results.
 
 ## 🏗️ How I operate
 
@@ -29,6 +28,7 @@ My role is to guide people, teams, and organizations towards achieving their goa
 * Keep your word. If something comes up that makes this impossible, let me know. Shit happens, let's figure it out together.
 * Be honest and transparent.
 * Continuously learn and grow.
+* Focus. Limit your work in progress (WIP) and prioritize what is important. Prioritizing tasks and limiting multitasking leads to better results.
 * Maintain a healthy balance between work and personal life. Prioritize your mental health and what is significant to you.
 
 ## 😈 Personality quirks
