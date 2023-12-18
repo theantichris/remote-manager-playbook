@@ -19,7 +19,7 @@ My role is to guide people, teams, and organizations towards achieving their goa
 * Holistic development. We are not just employees, we're people. We are not just employees, we're people. Our work life influences our personal life and vice versa. Strive for a healthy work-life balance. Let your successes in one fuel the other.
 * Growth mindset. I want to see your grow in your role, in your career, and as a person. Work with me to set and achieve goals for where you want to be.
 * Outcomes and results. Everything we do should be focused on the outcome, we can figure out how to get there together. Start with the results we want and work backwards to figure out the best way to get there.
-* Collaboration. We are all working together to grow and deliver value.
+* Collaboration. Our collective goal is to grow and deliver value. Let's work together with our team and partners to achieve these goals. Don't work in a silo and communicate frequently.
 * Feedback. I am always open to receiving feedback so share it whenever you like and as much as possible. I have no issue with public feedback so feel free to do so whenever the situation comes up.
 
 ## 🏗️ How I operate
