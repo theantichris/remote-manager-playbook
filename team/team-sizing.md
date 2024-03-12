@@ -1,6 +1,6 @@
 # Team Sizing
 
-* Teams should be six to eight during stead state.
+* Teams should be six to eight during steady state.
   * This gives the manager enough time for active coaching, coordinating, and furthering the team's mission.
   * Smaller teams can fail to come together and act more like the individuals.
   * On small teams the manager functions more like a tech lead and does not have time to improve their managerial skills.
