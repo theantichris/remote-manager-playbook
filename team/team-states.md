@@ -24,10 +24,10 @@
 
 ### Fix
 
+* Reduce WIP (work in progress).
 * Consolidate the team's efforts into finishing more things.
 * Reduce concurrent work until they're able to repay technical debt.
 * Help people transfer from a personal view of productivity to a team view.
-* Reduce WIP (work in progress).
 
 ## Repaying Debt
 
@@ -53,5 +53,7 @@
 ### Fix
 
 * Add slack.
-* Maintain enough slack in the team's schedule to build quality into their work, operate continuously in innovation, and avoid backtracking.
+* Maintain enough slack in the team's schedule to build quality into their work.
+* Operate continuously in innovation.
+* Avoid backtracking.
 * Ensure the work the team is doing is valued.
