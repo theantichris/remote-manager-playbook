@@ -1,4 +1,4 @@
-# Strategy and visions
+# Strategy and Vision
 
 Strategies are documents which explain trade-offs and action that will be take for challenges.
 
@@ -23,3 +23,35 @@ Policies are the approach you'll take to solve the problem. They should include 
 ### Actions
 
 These are what you get when you apply your policies to the diagnosis.
+
+## Vision
+
+A vision describes a future in which the tradeoffs from strategy are no longer mutually exclusive.
+
+### Vision statement
+
+A 1 or 2 sentence aspirational statement to summarize the rest of the vision. This is the core statement that should be repeated at each meeting, planning session, and review.
+
+### Value proposition
+
+How will you be valuable to your users and the company? What success will you enable them to achieve.
+
+### Narrative
+
+A short narrative that combines all the information and details into something that is easy to digest and understand.
+
+### Capabilities
+
+What capabilities will you need in order to deliver the value proposition?
+
+### Solved constraints
+
+What constraints do you have today that the vision solves?
+
+### Future constraints
+
+What constraints do you expect to encounter in the future?
+
+## Reference material
+
+Link all the plans, metrics, updates, references, and documents.
