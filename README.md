@@ -53,4 +53,4 @@ My role is to guide people, teams, and organizations towards achieving their goa
 
 ## 🏍️ Personal life
 
-I live in Knoxville, TN with my girlfriend, our 3 kids, a dog, and a cat. I love to read, swim, be in nature, play video games, read tarot, and ride my motorcycle. I don't love leaving my house. I am originally from coastal NC and would love to move back to the ocean someday.
+I live in Knoxville, TN with my girlfriend, our 3 kids, a dog, and a cat. I love to read, swim, be in nature, play video games, read tarot, and ride my motorcycle. I don't love leaving my house. I speak Irish (Gaelic). I am originally from coastal NC and would love to move back to the ocean someday.
