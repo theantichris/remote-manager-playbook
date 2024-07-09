@@ -50,3 +50,7 @@ My role is to guide people, teams, and organizations towards achieving their goa
 * I am quite forgetful. If I do not write something down, there's a good chance I'll forget it. If you don't see me make a note of something important, please say something.
 * I have narcolepsy. If you see me yawn, I'm not bored, just tired. If you see me get up and move around, it's to maintain my attention and wakefulness.
 * I like to think and process information before acting. If we are having a conversation and I'm quiet for a bit I am doing just that. I normally will saying something like "processing...".
+
+## 🏍️ Personal life
+
+I live in Knoxville, TN with my girlfriend, our 3 kids, a dog, and a cat. I love to read, swim, be in nature, play video games, read tarot, and ride my motorcycle. I am originally from coastal NC and would love to move back to the ocean someday.
