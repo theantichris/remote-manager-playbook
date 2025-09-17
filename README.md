@@ -53,4 +53,4 @@ My role is to guide people, teams, and organizations towards achieving their goa
 
 ## 🏍️ Personal life
 
-I live in Knoxville, TN with my wife, our 3 kids, our dog, and our cat. I love to read, swim, be in nature, play video games, read tarot, and ride my motorcycle. I don't love leaving my house.
+I live in Knoxville, TN with my wife, our 3 kids, our dog, and our cat. I love to read, swim, be in nature, play video games, read tarot, playing the banjo, and ride my motorcycle. I don't love leaving my house.
