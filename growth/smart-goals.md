@@ -16,7 +16,7 @@ Your goal should have a clear metric so you can track your progress.
 
 ## Achievable
 
-Your goals should be realistic and attainable with your resources and ability. Setting lofty goals could be good but if you can't accomplish them you could lose motivation and momentum. If a goal seems too large you could break it down into multiple goals.
+Your goal should be realistic and attainable with your resources and ability. Setting lofty goals could be good but if you can't accomplish them you could lose motivation and momentum. If a goal seems too large you could break it down into multiple smaller goals.
 
 "I want to learn how to play the guitar in a month" could be attainable for someone with the time and motivation but it may not be for others.
 
@@ -34,21 +34,21 @@ You should set a deadline or time frame for completing your goal or evaluating y
 
 ## Examples
 
-### Professional Goal: “I’m going to increase sales”
+### Professional Goal: "I'm going to increase sales"
 
-* Specific: “I am going to learn about social media marketing and invest in a social media management platform to start growing an online audience of potential customers.”
-* Measurable: “The goal is to increase sales by 30% within the next quarter.”
-* Achievable: “I can afford a subscription to Zoho Social, and I have a moderately successful business that can handle a large increase in customer demand.”
-* Relevant: “I want to grow my sales volume so that I can buy a new vehicle for my business.”
-* Time-bound: “I will subscribe to Zoho Social tomorrow and go through all of their instructional material to learn how the platform works. I will build a social media strategy and deploy it in two weeks.”
+- Specific: "I am going to learn about social media marketing and invest in a social media management platform to start growing an online audience of potential customers."
+- Measurable: "The goal is to increase sales by 30% within the next quarter."
+- Achievable: "I can afford a subscription to Zoho Social, and I have a moderately successful business that can handle a large increase in customer demand."
+- Relevant: "I want to grow my sales volume so that I can buy a new vehicle for my business."
+- Time-bound: "I will subscribe to Zoho Social tomorrow and go through all of their instructional material to learn how the platform works. I will build a social media strategy and deploy it in two weeks."
 
-### Personal Goal: “I’m going to get in shape.”
+### Personal Goal: "I'm going to get in shape."
 
-* Specific: “I am going to get at least 30 minutes of exercise three days a week and cut my caloric intake by 25%.”
-* Measurable: “My goal is to lose 15 pounds within the next three months.”
-* Achievable: “I already have a rowing machine and can afford to buy fresh, nutritious food for myself and my family.”
-* Relevant: “I want to live a healthier lifestyle so that I feel better physically and mentally in my daily life”
-* Time-bound: “I will go to the grocery store tomorrow after work and buy healthy food for the week. I will use my rowing machine for 30 minutes before cooking dinner. I will use the rower three times per week.”
+- Specific: "I am going to get at least 30 minutes of exercise three days a week and cut my caloric intake by 25%."
+- Measurable: "My goal is to lose 15 pounds within the next three months."
+- Achievable: "I already have a rowing machine and can afford to buy fresh, nutritious food for myself and my family."
+- Relevant: "I want to live a healthier lifestyle so that I feel better physically and mentally in my daily life"
+- Time-bound: "I will go to the grocery store tomorrow after work and buy healthy food for the week. I will use my rowing machine for 30 minutes before cooking dinner. I will use the rower three times per week."
 
 ## Source
 
