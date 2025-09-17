@@ -11,25 +11,23 @@ During our 1:1, I expect you to drive the conversation. Don't hesitate to bring 
 1. Review the existing agenda, clarify any ambiguities, and address any outstanding action items.
 1. Look at our last meeting to see if there is anything to follow up on.
 1. Review outstanding next steps.
-1. Check Velocity for any topics that need discussion.
-1. Check the feedback database for any feedback that requires discussion.
 1. Add any other necessary agenda items.
 
 ## Agenda
 
 ### Check-in
 
-* How are you feeling?
+- How are you feeling?
 
 ### Key questions
 
-* How is work going this week?
-* What, if anything, is getting in your way?
-* What can I help you with?
-* Goal updates.
-* How is life on the team?
-* What feedback do you have for me?
+- How is work going this week?
+- What, if anything, is getting in your way?
+- What can I help you with?
+- Goal updates.
+- How is life on the team?
+- What feedback do you have for me?
 
 ### Wrap-up
 
-* Is there anything we need to discuss more in-depth?
+- Is there anything we need to discuss more in-depth?
