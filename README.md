@@ -1,4 +1,4 @@
-# Remote Management Playbook
+# Remote Manager Playbook
 
 ## 👋 Hey, y'all
 
@@ -54,3 +54,42 @@ My role is to guide people, teams, and organizations towards achieving their goa
 ## 🏍️ Personal life
 
 I live in Knoxville, TN with my wife, our 3 kids, our dog, and our cat. I love to read, swim, be in nature, play video games, read tarot, playing the banjo, and ride my motorcycle. I don't love leaving my house.
+
+## 📚 Index
+
+### Communication
+
+- [Asynchronous Messaging](communication/asynchronous-messaging.md)
+
+### Growth
+
+- [SMART Goals](growth/smart-goals.md)
+
+### Meetings
+
+- [One-on-Ones](meetings/one-on-ones.md)
+- [Retrospectives](meetings/retrospectives.md)
+
+### Process
+
+- [Sizing](process/sizing.md)
+
+### Product
+
+- [Product Management](product/product-management.md)
+
+### Reviews
+
+- [Review Conversations](reviews/review-conversations.md)
+
+### Strategy
+
+- [Goals](strategy/goals.md)
+- [Strategy](strategy/strategy.md)
+
+### Team
+
+- [Competencies](team/competencies.md)
+- [Parting Ways](team/parting-ways.md)
+- [Team Sizing](team/team-sizing.md)
+- [Team States](team/team-states.md)
