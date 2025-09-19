@@ -1,33 +1,48 @@
-# Product management
+# Product Management
 
 ## Problem discovery
 
-* Explore the different problems that you could solve.
-* What are the users' pain points?
-* What are the users' trying to accomplish?
-* How does your app compare to competitors?
-* What kind of hidden users does your app have that you aren't serving?
-* What current strengths does your app have you could use to your advantage?
-* What are you able to do that your competitors can't?
-* What could you build today that would compound your advantage over time?
+- Explore the different problems that you could solve.
+- What are the users' pain points?
+- What are the users trying to accomplish?
+- How does your app compare to competitors?
+- What kind of hidden users does your app have that you aren't serving?
+- What current strengths does your app have you could use to your advantage?
+- What are you able to do that your competitors can't?
+- What could you build today that would compound your advantage over time?
 
 ## Problem selection
 
-* Narrow down your problems to a specific list.
-* What do you need to do to survive your current reality?
-* Where do you need to be for the next phase of reality?
-* What would ensure you're trending to a winning phase of reality?
-* Where do you think the industry is moving and how can you take advantage of that now?
-* What is the return on investment?
-* What are your quick wins?
-* What could you experiment with and learn now that would make the future easier?
+- Narrow down your problems to a specific list.
+- What do you need to do to survive your current reality?
+- Where do you need to be for the next phase of reality?
+- What would ensure you're trending to a winning phase of reality?
+- Where do you think the industry is moving and how can you take advantage of that now?
+- What is the return on investment?
+- What are your quick wins?
+- What could you experiment with and learn now that would make the future easier?
 
 ## Solution validation
 
-* Take the risk out of your approach.
-* Write the launch announcement you'd send after shipping. Is it exciting, useful, and realistic?
-* How has this problem been solved before?
-* Identify test users. If you can't it might not be worth building.
-* Experiment over analyze. There is almost always missing information.
-* Find the cheapest way to validate.
-* Justify the cost the users pay for adoption.
+- Take the risk out of your approach.
+- Write the launch announcement you'd send after shipping. Is it exciting, useful, and realistic?
+- How has this problem been solved before?
+- Identify test users. If you can't it might not be worth building.
+- Prefer experiments over analysis. There is almost always missing information.
+
+## One-page outline
+
+- Problem: who's affected and why it matters now.
+- Jobs: what they're trying to do today (and how).
+- Constraints: time, people, platform, compliance.
+- Success: metrics you'll move (baseline → target → timeframe).
+- Bets: the smallest changes likely to move the metric.
+- Risks: biggest unknowns; what would make this fail.
+- Experiments: how you'll learn quickly and cheaply.
+
+### Launch announcement (write first)
+
+- Example: "Today we're rolling out tax-inclusive pricing so buyers see final costs upfront. Early adopters saw a 7% checkout conversion lift. It's available on Web for US/EU stores; mobile is coming next month."
+
+- Find the cheapest way to validate.
+- Justify the cost the users pay for adoption.

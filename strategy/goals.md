@@ -18,4 +18,11 @@ The tests for a good goal are:
 
 An investment describes where you want to be in the future, a baseline describes what you have now that you want to keep.
 
-It is often a great idea to pair investments with baselines in your goals to help narrow the scope you use to find a solution. Baselines can also be useful in identifying when you should pause on an going after a goal and instead invest in platform quality.
+It is often a great idea to pair investments with baselines in your goals to help narrow the scope you use to find a solution. Baselines can also be useful in identifying when you should pause on going after a goal and instead invest in platform quality.
+
+## Example goal
+
+- Baseline: 88% weekly success rate on checkout.
+- Trend: -1.2% per month over the last quarter.
+- Target: 95% weekly success rate.
+- Time frame: by end of Q2.

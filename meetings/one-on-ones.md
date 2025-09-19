@@ -4,7 +4,11 @@ I prefer to schedule 1:1s weekly, generally lasting 30 minutes. We can extend th
 
 We will maintain a shared agenda for our 1:1s, which will contain our planned discussion points and any notes we take. I encourage you to contribute your own topics for discussion and jot down any necessary notes.
 
+Where the agenda lives: a shared doc (Notion/Google Doc/whatever the team uses). We both can add topics anytime.
+
 During our 1:1, I expect you to drive the conversation. Don't hesitate to bring up anything that's on your mind. This meeting isn't just a report of your activities, but a platform for you to present your ideas, challenges, and issues that you wish to discuss.
+
+Async 1:1s: if we can't meet, add updates and questions to the doc. I'll respond within one business day and we'll adjust anything time-sensitive.
 
 ## Prep
 
@@ -18,6 +22,15 @@ During our 1:1, I expect you to drive the conversation. Don't hesitate to bring 
 ### Check-in
 
 - How are you feeling?
+
+### Template
+
+- Wins since last time
+- Updates and progress
+- Challenges/blockers (what help do you need?)
+- Goals check-in (SMART)
+- Feedback (for each other)
+- Next steps and owners
 
 ### Key questions
 
