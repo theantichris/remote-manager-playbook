@@ -1,16 +1,16 @@
 # Strategy and Vision
 
-Strategies are documents which explain trade-offs and action that will be take for challenges.
+Strategies are documents which explain trade-offs and actions that will be taken for challenges.
 
 Visions are documents that enable people who don't work closely together to make decisions that fit together.
 
 ## Strategies
 
-A strategy should recommend specific actions that address the challenges constraints and context. "Good Strategy/Bad Strategy" by Richard Rumelt recommends that they have three sections:
+A strategy should recommend specific actions that address the challenges, constraints, and context. "Good Strategy/Bad Strategy" by Richard Rumelt recommends that they have three sections:
 
-* Diagnosis
-* Policies
-* Actions
+- Diagnosis
+- Policies
+- Actions
 
 ### Diagnosis
 
@@ -34,7 +34,19 @@ A 1 or 2 sentence aspirational statement to summarize the rest of the vision. Th
 
 ### Value proposition
 
-How will you be valuable to your users and the company? What success will you enable them to achieve.
+How will you be valuable to your users and the company? What success will you enable them to achieve?
+
+### Out of scope
+
+What is explicitly not included.
+
+### Risks
+
+What could go wrong, and how you'll mitigate or monitor it.
+
+### Anti-goals
+
+Clear statements about outcomes you are not pursuing to avoid distractions.
 
 ### Narrative
 

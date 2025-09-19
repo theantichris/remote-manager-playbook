@@ -1,6 +1,6 @@
 # SMART Goals
 
-A SMART Goal is a specific, measurable, achievable, relative, time-bound goal. By using SMART goals you can create clear and actionable objectives that will help you reach your desired outcomes.
+A SMART Goal is a specific, measurable, achievable, relevant, time-bound goal. By using SMART goals you can create clear and actionable objectives that will help you reach your desired outcomes.
 
 ## Specific
 
@@ -47,9 +47,15 @@ You should set a deadline or time frame for completing your goal or evaluating y
 - Specific: "I am going to get at least 30 minutes of exercise three days a week and cut my caloric intake by 25%."
 - Measurable: "My goal is to lose 15 pounds within the next three months."
 - Achievable: "I already have a rowing machine and can afford to buy fresh, nutritious food for myself and my family."
-- Relevant: "I want to live a healthier lifestyle so that I feel better physically and mentally in my daily life"
+- Relevant: "I want to live a healthier lifestyle so that I feel better physically and mentally in my daily life."
 - Time-bound: "I will go to the grocery store tomorrow after work and buy healthy food for the week. I will use my rowing machine for 30 minutes before cooking dinner. I will use the rower three times per week."
 
 ## Source
+
+## Using SMART in 1:1s and Reviews
+
+- We'll track 1-2 active SMART goals in our shared 1:1 agenda.
+- Use them as anchors in reviews: evidence, outcomes, and what you learned.
+- Keep goals small enough to show progress in weeks, not quarters.
 
 [The Ultimate Guide To S.M.A.R.T. Goals](https://www.forbes.com/advisor/business/smart-goals/)
