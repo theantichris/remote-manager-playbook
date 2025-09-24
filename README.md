@@ -121,4 +121,4 @@ I live in Knoxville, TN with my wife, our 3 kids, our dog, and our cat. I love t
 - [Review Brief](templates/review-brief.md)
 - [Strategy](templates/strategy.md)
 - [Team Charter](templates/team-charter.md)
-- [Technical Brief](templates/technical-breif.md)
+- [Technical Brief](templates/technical-brief.md)
