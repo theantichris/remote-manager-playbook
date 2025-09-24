@@ -1,4 +1,4 @@
-# Details Design Document
+# Detailed Design Document
 
 ## Summary
 
