@@ -9,6 +9,7 @@ This is a Remote Manager Playbook - a collection of living documents outlining m
 ## Repository Structure
 
 The playbook is organized into thematic directories:
+
 - `communication/` - Async messaging and communication patterns
 - `growth/` - Career development and goal-setting resources
 - `meetings/` - Meeting formats and best practices
@@ -24,6 +25,7 @@ The playbook is organized into thematic directories:
 This is a pure documentation repository with no build process. The only automation is:
 
 ### Linting
+
 ```bash
 # The repository uses GitHub Actions for Markdown linting
 # To check locally, you can use markdownlint with the config:
@@ -41,6 +43,7 @@ The markdownlint configuration disables line length restrictions (MD013) and all
 ## Contributing Guidelines
 
 When modifying or adding content:
+
 1. Keep the tone friendly, direct, and practical
 2. Favor examples over theory
 3. All documents should support remote, distributed, and asynchronous teams

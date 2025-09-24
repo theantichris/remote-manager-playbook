@@ -21,4 +21,3 @@ Outline your proposal. It should explain why this is the best solution, and it s
 1. List possible alternatives.
 1. "Do nothing" maybe an alternative.
 1. Include important pros and cons.
-

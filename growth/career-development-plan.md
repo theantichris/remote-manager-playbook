@@ -26,6 +26,7 @@ Fill out as much as you can. Specificity is best, but if you only have vague ans
 - *Etc.*
 
 ## Feedback From Your Last Review You Want To Work On
+
 - *We talked about how I could be a better communicator.*
 - *Etc.*
 
@@ -33,7 +34,7 @@ Fill out as much as you can. Specificity is best, but if you only have vague ans
 
 ### Current Title
 
-*Senior software engineer*
+Senior software engineer
 
 ### Current Day To Day Ownership and Responsibilities
 
@@ -44,7 +45,7 @@ Fill out as much as you can. Specificity is best, but if you only have vague ans
 
 ### Desire Title
 
-*Staff engineer*
+Staff engineer
 
 ### Desired Responsibilities
 
@@ -79,4 +80,3 @@ See [SMART Goals](/growth/smart-goals.md)
 - *Test 2 ideas for improving deployment times.*
 - *Improve organization skills by using a meeting template for meetings that you plan.*
 - *Etc.*
-
