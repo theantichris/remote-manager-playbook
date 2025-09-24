@@ -78,6 +78,7 @@ I live in Knoxville, TN with my wife, our 3 kids, our dog, and our cat. I love t
 
 ### Growth
 
+- [Career Development Plan](growth/career-development-plan.md)
 - [SMART Goals](growth/smart-goals.md)
 
 ### Meetings
@@ -108,3 +109,16 @@ I live in Knoxville, TN with my wife, our 3 kids, our dog, and our cat. I love t
 - [Parting Ways](team/parting-ways.md)
 - [Team Sizing](team/team-sizing.md)
 - [Team States](team/team-states.md)
+
+### Templates
+
+- [Async Message](templates/async-message.md)
+- [Decision Brief](templates/decision-brief.md)
+- [Detailed Design Document](templates/detailed-design-document.md)
+- [One-on-One Agenda](templates/one-on-one-agenda.md)
+- [Post-Mortem](templates/post-mortem.md)
+- [Retro Notes](templates/retro-notes.md)
+- [Review Brief](templates/review-brief.md)
+- [Strategy](templates/strategy.md)
+- [Team Charter](templates/team-charter.md)
+- [Technical Brief](templates/technical-breif.md)
