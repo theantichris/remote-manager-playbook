@@ -15,7 +15,7 @@ A post-mortem is a document that summarizes a production incident and its resolu
 1. What caused the problem?
 1. What was the solution?
 
-## Follwup
+## Followup
 
 1. What was done to prevent the problem from occurring again?
 1. What alerts were added, modified, or tuned?
