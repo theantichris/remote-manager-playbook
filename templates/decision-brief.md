@@ -14,7 +14,7 @@ When must the decision be made by?
 
 ## Proposal
 
-Outline your proposal. It should explain why this is the best solution, and it should include any relevant deatils without being too long. Try to stay at 2 paragraphs. If that isn't possible link to a larger document.
+Outline your proposal. It should explain why this is the best solution, and it should include any relevant details without being too long. Try to stay at 2 paragraphs. If that isn't possible link to a larger document.
 
 ## Alternatives
 
