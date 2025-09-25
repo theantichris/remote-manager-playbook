@@ -29,6 +29,7 @@ See [SMART Goals](/growth/smart-goals.md)
 
 ## Feedback From Your Last Review You Want To Work On
 
+- Think about self-improvement and where you want to grow.
 - *We talked about how I could be a better communicator.*
 - *Etc.*
 
@@ -56,6 +57,9 @@ Staff engineer
 
 ## What You Need To Do To Meet Your Goals
 
+Actions here should be themed around growth areas and skill gaps.
+
+1. *Improve communcation with a non-technical audience.
 1. *Take on larger projects.*
 1. *Mentor others.*
 1. *Complete a training course.*
