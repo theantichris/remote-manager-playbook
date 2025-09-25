@@ -20,6 +20,10 @@ List team members and their responsibilities, as well as key stakeholders.
 
 List the systems and processes we own.
 
+## No Ownership
+
+List the systems and processes we do not own.
+
 ## Values
 
 List the things our team values.
