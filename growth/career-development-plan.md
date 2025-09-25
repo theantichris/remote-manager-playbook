@@ -8,6 +8,8 @@ Fill out as much as you can. Specificity is best, but if you only have vague ans
 
 ## Goals
 
+See [SMART Goals](/growth/smart-goals.md)
+
 ### Short Term Goals
 
 - *Take on a new/different responsibility.*
