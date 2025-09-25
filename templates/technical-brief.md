@@ -7,6 +7,7 @@ This document should take 15 minutes to write and 5 minutes to read to provied e
 - Name of projet.
 - Name of team.
 - 2-3 sentence description of project.
+- When should we take on this project and why?
 
 ## References
 
