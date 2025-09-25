@@ -41,6 +41,11 @@
 - What teams need to help?
 - What changes may need to be tested by downstream teams?
 - What changes will and will not cascade to downstream systems and teams?
+- What runbooks will be required?
+
+### Out of Scope
+
+- State what is explicity out of scope for the project.
 
 ### Telemetry & Alerts
 
@@ -56,6 +61,15 @@
 
 - What are the major risks to the timely implementation of this system? How can they be mitigated?
 - Are there potential security risks?
+
+| Risk | Likelihood | Impact | Mitigation |
+-------------------------------------------
+|      |            |        |            |
+-------------------------------------------
+|      |            |        |            |
+-------------------------------------------
+|      |            |        |            |
+-------------------------------------------
 
 ## Alternatives
 
