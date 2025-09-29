@@ -14,7 +14,7 @@
 
 ## Proposal
 
-## Architectural Goals  
+## Architectural Goals
 
 - What are the technical challenges that the architecture solves?
 - What are the non-functional requirements (latency, throughput, etc.)?
@@ -45,7 +45,7 @@
 
 ### Out of Scope
 
-- State what is explicity out of scope for the project.
+- State what is explicitly out of scope for the project.
 
 ### Telemetry & Alerts
 

@@ -1,10 +1,10 @@
 # Technical Brief
 
-This document should take 15 minutes to write and 5 minutes to read to provied enough information to allow leadership the ability to identify needs, dependencies, and complexities.
+This document should take 15 minutes to write and 5 minutes to read to provide enough information to allow leadership the ability to identify needs, dependencies, and complexities.
 
 ## Summary
 
-- Name of projet.
+- Name of project.
 - Name of team.
 - 2-3 sentence description of project.
 - When should we take on this project and why?
@@ -15,6 +15,12 @@ This document should take 15 minutes to write and 5 minutes to read to provied e
 - Link to tickets, epics, etc.
 - Link to RFC, PRD, etc.
 
+## Impact
+
+- Impact to other engineering/analytics teams?
+- Impact to Legal?
+- Impact to budget?
+
 ## Implementation
 
 - What tech stack is required?
@@ -23,12 +29,6 @@ This document should take 15 minutes to write and 5 minutes to read to provied e
 - What existing analytics and data are affected?
 - What new analytics or data are required?
 - Any special considerations for logging or observability?
-
-## Impact
-
-- Impact to other engineering/analytics teams?
-- Impact to Legal?
-- Impact to budget?
 
 ## Stakeholder list
 
