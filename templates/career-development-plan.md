@@ -59,7 +59,7 @@ Staff engineer
 
 Actions here should be themed around growth areas and skill gaps.
 
-1. *Improve communcation with a non-technical audience.
+1. *Improve communication with a non-technical audience.
 1. *Take on larger projects.*
 1. *Mentor others.*
 1. *Complete a training course.*
