@@ -38,3 +38,23 @@ pre-commit run --all-files
 - Keep tone friendly, direct, and practical
 - Favor examples over theory
 - Use PRs/issues for updates and questions
+
+## Template Management
+
+- **nb is the source of truth** for templates at `~/.nb/home/templates/`
+- Templates use nb format with `# Template Name: {{title}}` headers
+- Sync workflow: nb → repo (not the other way around)
+- After syncing templates, update README.md index
+
+### Sync Commands
+
+```bash
+# Copy templates from nb to repo
+cp ~/.nb/home/templates/*.md templates/
+
+# Verify sync
+diff <(ls ~/.nb/home/templates/ | sort) <(ls templates/ | sort)
+
+# List nb templates
+nb list templates/
+```
