@@ -1,4 +1,4 @@
-# Retro Notes Template
+# Retro Notes: {{title}}
 
 Columns
 

@@ -1,4 +1,4 @@
-# 1:1 Agenda Template
+# One-on-One Agenda: {{title}}
 
 - Wins since last time
 - Updates and progress

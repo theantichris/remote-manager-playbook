@@ -1,7 +1,14 @@
 {
   "permissions": {
     "allow": [
-      "Bash(tree:*)"
+      "Bash(tree:*)",
+      "Bash(nb index:*)",
+      "Bash(nb templates:*)",
+      "Bash(nb list:*)",
+      "Bash(head:*)",
+      "Bash(ls:*)",
+      "Bash(xargs:*)",
+      "Bash(cat:*)"
     ]
   }
 }

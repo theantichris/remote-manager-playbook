@@ -1,4 +1,4 @@
-# Async Message Template
+# Async Message: {{title}}
 
 - Context: what's going on and why it matters.
 - Ask/Decision: what you need from whom.

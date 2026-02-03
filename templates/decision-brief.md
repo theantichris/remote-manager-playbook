@@ -1,4 +1,4 @@
-# Decision Brief
+# Decision Brief: {{title}}
 
 ## Deadline
 

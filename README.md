@@ -113,12 +113,15 @@ I live in Knoxville, TN with my wife, our 3 kids, our dog, and our cat. I love t
 ### Templates
 
 - [Async Message](templates/async-message.md)
+- [Career Development Plan](templates/career-development-plan.md)
 - [Decision Brief](templates/decision-brief.md)
 - [Detailed Design Document](templates/detailed-design-document.md)
+- [Issue](templates/issue.md)
 - [One-on-One Agenda](templates/one-on-one-agenda.md)
 - [Post-Mortem](templates/post-mortem.md)
+- [PRD](templates/prd.md)
 - [Retro Notes](templates/retro-notes.md)
 - [Review Brief](templates/review-brief.md)
 - [Strategy](templates/strategy.md)
 - [Team Charter](templates/team-charter.md)
-- [Technical Brief](templates/technical-brief.md)
+- [Weekly Update](templates/weekly_update.md)

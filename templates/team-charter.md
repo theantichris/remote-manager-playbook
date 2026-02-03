@@ -1,4 +1,4 @@
-# Team Charter
+# Team Charter: {{title}}
 
 ## Mission
 

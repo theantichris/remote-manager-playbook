@@ -1,4 +1,4 @@
-# Strategy Template
+# Strategy: {{title}}
 
 ## Diagnosis
 

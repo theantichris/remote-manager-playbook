@@ -1,4 +1,4 @@
-# Career Development Plan
+# Career Development Plan: {{title}}
 
 Adapted from [Career Development Plan Template](https://docs.google.com/document/d/17G-8Av5UEXWvxOuF14wsmxR0Pr7s8svcNahCj9_Cgjs/edit?pli=1&tab=t.0#heading=h.l2xn5uelayp8).
 
