@@ -1,88 +1,129 @@
 # Career Development Plan: {{title}}
 
-Adapted from [Career Development Plan Template](https://docs.google.com/document/d/17G-8Av5UEXWvxOuF14wsmxR0Pr7s8svcNahCj9_Cgjs/edit?pli=1&tab=t.0#heading=h.l2xn5uelayp8).
+Career development is about more than promotions and job titles. It's about growing your skills, expanding your impact, finding fulfillment in your work, and moving toward whatever success looks like for you.
 
-Fill out as much as you can. Specificity is best, but if you only have vague answers, that is still good.
+This is your plan. My role is to help you explore opportunities, provide feedback, remove obstacles, and support you along the way.
 
-[!note Examples are in italics.]
+You don't need to have everything figured out. Fill out what you can, even if your answers are vague. We can work together to clarify your goals, and this plan can evolve as your interests and priorities change.
 
-## Goals
+## Where I Am Today
 
-See [SMART Goals](/growth/smart-goals.md)
+### Current Role and Responsibilities
 
-### Short Term Goals
+- What is my current role?
+- What am I responsible for?
+- What decisions or areas do I own?
 
-- *Take on a new/different responsibility.*
-- *Gain knowledge or experience in a certain area.*
-- *Improve the way I work with my team.*
-- *Be someone who people come to when they need XYZ.*
-- *Be the person who people know can figure out how to solve a technical problem.*
-- *Title change.*
-- *Etc.*
+### Strengths
 
-## Long Term Goals
+- What am I particularly good at?
+- What do others consistently rely on me for?
+- What work gives me energy or a sense of accomplishment?
 
-- *I want to be VP of a large tech company someday."*
-- *I am less concerned about traditional careeer goals and more concerned about stress and enjoying where I am."*
-- *I just want to have maximum impact on XYZ."*
-- *Etc.*
+### Opportunities for Growth
 
-## Feedback From Your Last Review You Want To Work On
+- Where do I feel less confident or experienced?
+- What feedback have I received that I want to work on?
+- What skills or experiences would help me become more effective?
 
-- Think about self-improvement and where you want to grow.
-- *We talked about how I could be a better communicator.*
-- *Etc.*
+## Where I Want to Go
 
-## Current Responsibilities
+### Short-Term Goals
 
-### Current Title
+What would I like to accomplish or improve over the next 6–12 months?
 
-Senior software engineer
+Examples:
 
-### Current Day To Day Ownership and Responsibilities
+- *Become more effective at communicating technical decisions.*
+- *Take ownership of a larger or more complex project.*
+- *Develop deeper expertise in a technology or domain.*
+- *Become a better mentor to others.*
 
-- *Own backend technical decisiions for the team.*
-- *Etc.*
+### Long-Term Goals
 
-## Desired Responsibilities
+Where would I like to be in the next 2–5 years?
 
-### Desire Title
+Think about the kind of work you want to do, the responsibilities you want, and the impact you'd like to have.
 
-Staff engineer
+Examples:
 
-### Desired Responsibilities
+- *Move into a technical leadership role.*
+- *Become a recognized expert in my area.*
+- *Grow into a people management role.*
+- *Continue doing the work I enjoy while improving my skills and maintaining a healthy work-life cycle.*
 
-- *Own large architectural decisions on the backend.*
-- *Etc.*
+It's okay if you don't know yet. Exploring different paths can be a goal in itself.
 
-## What You Need To Do To Meet Your Goals
+## Growth Priorities
 
-Actions here should be themed around growth areas and skill gaps.
+Identify one or two areas to focus on. Trying to improve everything at once usually means making little progress on anything.
 
-1. *Improve communication with a non-technical audience.
-1. *Take on larger projects.*
-1. *Mentor others.*
-1. *Complete a training course.*
-1. *Etc.*
+For each priority, consider:
 
-## What Do You Need From Your Manager To Meet Your Goals
+### Growth Area: [Name]
 
-1. *Support me as I take on larger projects.*
-1. *Get feedback from other employees.*
-1. *Etc.*
+**Why does this matter to me?**
 
-## What Your Manager Thinks You Need To Do To Achieve Your Goals
+[Explain why you want to grow in this area and how it connects to your goals.]
 
-1. *Develop expertise in new technology.*
-1. *Respond to PRs faster.*
-1. *Etc.*
+**What does success look like?**
 
-## What Concrete Steps Can You Take To Achieve Your Goals
+[Describe the outcomes or behaviors that would demonstrate progress.]
 
-See [SMART Goals](/growth/smart-goals.md)
+**What opportunities will help me grow?**
 
-- *Demonstrate leadership abilities by leading and completing project X. Present results at All-Hands.*
-- *Develop skills in REST APIs by implementing 7 new endpoints.*
-- *Test 2 ideas for improving deployment times.*
-- *Improve organization skills by using a meeting template for meetings that you plan.*
-- *Etc.*
+[Identify projects, responsibilities, mentoring, training, or other experiences.]
+
+**How will I measure progress?**
+
+[Describe the evidence you'll use to evaluate your growth.]
+
+**When will we revisit this?**
+
+[Set a reasonable date to review progress.]
+
+See [SMART Goals](../growth/smart-goals.md) for guidance on setting specific, measurable, and achievable goals.
+
+## Action Plan
+
+Turn your growth priorities into concrete actions. Focus on opportunities to practice and apply what you're learning, not just completing courses or reading books.
+
+| Action | Expected Outcome | Target Date |
+| --- | --- | --- |
+| [What I'll do] | [What I hope to learn or achieve] | [Date] |
+| [What I'll do] | [What I hope to learn or achieve] | [Date] |
+
+## What I Need From My Manager
+
+- What opportunities or responsibilities would help me grow?
+- Where would coaching, mentorship, or feedback be useful?
+- What obstacles can my manager help remove?
+- Are there people or teams I could learn from or work more closely with?
+
+## My Manager's Perspective
+
+This section is something we'll work through together.
+
+- **Strengths:** What am I already doing well that I should continue building on?
+- **Growth opportunities:** Where could I develop additional skills or increase my impact?
+- **Experiences:** What projects, responsibilities, or challenges could help me grow?
+- **Support:** What can my manager commit to doing to help me succeed?
+
+We don't always have to agree on everything immediately. Different perspectives can help us understand where to focus.
+
+## Reviewing Progress
+
+We'll use our regular 1:1s to discuss progress, challenges, and opportunities. Periodically, we'll revisit the larger plan to make sure it's still relevant.
+
+During those conversations, we'll ask:
+
+- What progress have I made?
+- What have I learned?
+- What's working, and what isn't?
+- Have my interests or priorities changed?
+- What should I focus on next?
+- What additional support do I need?
+
+Your career development plan isn't a contract or a checklist. It's a tool to help us have meaningful conversations about your growth and make sure we're taking action to support it.
+
+**The goal isn't simply to reach the next title. It's to help you build a career you find rewarding.**
