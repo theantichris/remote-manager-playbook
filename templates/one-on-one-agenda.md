@@ -1,19 +1,34 @@
 # One-on-One Agenda: {{title}}
 
-- Wins since last time
-- Updates and progress
-- Challenges/blockers (what help do you need?)
-- Goals check-in (SMART)
-- Feedback (for each other)
-- Next steps and owners
+## Check-in
 
-Prep
+- How are you feeling about work and your workload?
+- What's taking up the most mental space right now?
 
-- Review previous notes and action items
-- Add your topics/questions
-- Share any docs/links
+## Your Agenda
 
-Async 1:1s
+- What's the most important thing to discuss today?
+- Where are you feeling friction or uncertainty?
+- Wins, ideas, questions, or concerns.
 
-- Add updates and questions here if we can't meet.
-- I'll respond within one business day.
+## My Agenda
+
+- Follow-up from last time.
+- Cross-team collaboration and stakeholder alignment.
+- Career development and growth goals.
+- Feedback and support.
+
+## Wrap-up
+
+- What could I do differently to support you?
+- Is there anything we need more time for?
+
+## Action Items
+
+- [ ] [Action, owner, and due date]
+
+## Prep and Async Follow-up
+
+- Review previous notes and action items.
+- Add topics and relevant links before we meet.
+- If we can't meet, add questions here and follow up directly on anything time-sensitive.
