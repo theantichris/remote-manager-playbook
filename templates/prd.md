@@ -6,39 +6,36 @@
 
 ## Solution
 
-[1-2 sentences describing the ML approach.]
+[1-2 sentences describing the proposed approach.]
 
 ## Success Criteria
 
-- [Metric 1]: [Target value + rationale]
-- [Metric 2]: [Target value + rationale]
-- [Metric 3]: [Target value + rationale]
+- [Metric 1]: [Target value and rationale]
+- [Metric 2]: [Target value and rationale]
+- [Metric 3]: [Target value and rationale]
 
 ## Scope
 
 ### In Scope
 
 1. [Phase/Component 1]
-
-- [Deliverable]
-- [Deliverable]
-
+   - [Deliverable]
+   - [Deliverable]
 1. [Phase/Component 2]
-
-- [Deliverable]
-- [Deliverable]
+   - [Deliverable]
+   - [Deliverable]
 
 ### Out of Scope
 
-- [Explicitly exclude feature/approach]
-- [Explicitly exclude feature/approach]
+- [Explicitly excluded feature or approach]
+- [Explicitly excluded feature or approach]
 
 ## Discovery Questions
 
-| Questions         | Data Source     | Success Criteria     |
-|-------------------|-----------------|----------------------|
-| [Key questions 1] | [Where to look] | [What answers "yes"] |
-| [Key questions 2] | [Where to look] | [What answers "yes"] |
+| Question | Data Source | Success Criteria |
+| --- | --- | --- |
+| [Key question 1] | [Where to look] | [What would answer it] |
+| [Key question 2] | [Where to look] | [What would answer it] |
 
 ## Implementation
 
@@ -54,17 +51,21 @@
 
 ## Stakeholders
 
-- Primary: [Team consuming output]
-- Secondary: [Team affected or informed]
+- Primary: [Team or audience using the result]
+- Secondary: [Teams affected or informed]
 
 ## Risks
 
-| Risk                  | Mitigation            |
-|-----------------------|-----------------------|
+| Risk | Mitigation |
+| --- | --- |
 | [What could go wrong] | [How we'll handle it] |
 | [What could go wrong] | [How we'll handle it] |
 
 ## Dependencies
 
-- [External data/access needed]
+- [External data or access needed]
 - [Cross-team work required]
+
+## References
+
+- [Links to relevant documents, issues, decisions, and discussions]
