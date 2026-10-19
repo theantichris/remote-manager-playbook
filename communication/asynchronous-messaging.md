@@ -1,37 +1,47 @@
 # Asynchronous Messaging
 
-## Four components of a great asynchronous message
+Distributed teams should be able to make progress without waiting for everyone to be online at the same time. The goal is to share enough context that people can understand the work and take the next step.
 
-1. Include enough information to cover all follow-up questions.
-1. Include a deadline for when you need an answer.
-1. Add any links, images, and as much context as is possible.
-1. Include a concrete need or outcome.
+## Four Parts of a Useful Async Message
+
+1. **Context:** What's happening, why it matters, and links to the relevant work.
+1. **Ask or decision:** What do you need from the reader?
+1. **Owner:** Who is responsible for responding or taking the next step?
+1. **Timing:** When do you need an answer or decision? Include the time zone if there's a deadline.
+
+Answer the likely follow-up questions, but don't bury the ask in a wall of text. A good message should make it clear what someone can do next.
 
 ## Template
 
-- Context: what's going on and why it matters.
-- Ask/Decision: what you need from whom.
-- Owner(s): who's responsible for the next step.
-- Deadline/Timezone: when you need it and in which TZ.
-- Links/Docs: supporting info.
+- Context: What's going on and why it matters.
+- Ask/Decision: What you need from whom.
+- Owner(s): Who is responsible for the next step.
+- Deadline/Timezone: When you need it and in which time zone.
+- Links/Docs: Supporting information and evidence.
 
-## Examples
+## Example
 
-- Good
+**Useful message**
 
-  - Context: Checkout errors spiked to 2.4% after today's deploy; logs point to tax calc.
-  - Ask: Product + Eng to decide rollback vs. hotfix.
-  - Owner(s): @alex (Eng), @jordan (PM)
-  - Deadline/Timezone: Need a decision by 3pm ET today.
-  - Links: dashboard, Sentry issue #123, PR #456
+- Context: Checkout errors increased after today's deploy; logs point to the tax calculation.
+- Ask: Product and Engineering need to decide whether to roll back or ship a fix.
+- Owner(s): Engineering lead and PM.
+- Deadline/Timezone: Decision needed by 15:00 Eastern today.
+- Links/Docs: Dashboard, error logs, and the related PR.
 
-- Anti-pattern
-  - "Something's broken. Thoughts?" (No context, no owner, no deadline.)
+**Not useful**
 
-## When not to use async communication
+> Something's broken. Thoughts?
 
-1. Delivering critical feedback.
-1. Solving challenging problems.
-1. Project kick-offs.
-1. Project sync-ups.
-1. Long chats.
+There's no context, clear owner, or next step.
+
+## When a Conversation Is Better
+
+Async is a default, not a mandate. Talk live when:
+
+- Giving sensitive or difficult feedback.
+- Working through a complicated problem where rapid back-and-forth will help.
+- Resolving a conflict or misunderstanding.
+- Responding to something urgent that can't wait for an async reply.
+
+Kickoffs and working sessions can benefit from written context before a conversation. Routine project updates and decisions often work well asynchronously when the owner and expectations are clear. See [Project Ownership and Weekly Updates](../process/project-ownership.md).
