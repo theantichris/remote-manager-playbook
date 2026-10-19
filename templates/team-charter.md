@@ -6,7 +6,7 @@ One or two sentences about what the team's greater goal is.
 
 ## Goals
 
-List some tangible goals for the team. See [SMART Goals](/growth/smart-goals.md).
+List some tangible goals for the team. See [SMART Goals](../growth/smart-goals.md).
 
 ## Team & Stakeholders
 
