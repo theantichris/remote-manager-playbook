@@ -1,88 +1,81 @@
 # Career Development Plan: {{title}}
 
-Adapted from [Career Development Plan Template](https://docs.google.com/document/d/17G-8Av5UEXWvxOuF14wsmxR0Pr7s8svcNahCj9_Cgjs/edit?pli=1&tab=t.0#heading=h.l2xn5uelayp8).
+A career plan is a way to make your goals, opportunities, and support needs visible. It can be specific or exploratory. You don't need to have every answer figured out.
 
-Fill out as much as you can. Specificity is best, but if you only have vague answers, that is still good.
-
-[!note Examples are in italics.]
+This is adapted from a [Career Development Plan Template](https://docs.google.com/document/d/17G-8Av5UEXWvxOuF14wsmxR0Pr7s8svcNahCj9_Cgjs/edit).
 
 ## Goals
 
-See [SMART Goals](/growth/smart-goals.md)
+See [SMART Goals](../growth/smart-goals.md) for help turning an idea into something you can act on.
 
-### Short Term Goals
+### Short-Term Goals
 
-- *Take on a new/different responsibility.*
-- *Gain knowledge or experience in a certain area.*
-- *Improve the way I work with my team.*
-- *Be someone who people come to when they need XYZ.*
-- *Be the person who people know can figure out how to solve a technical problem.*
-- *Title change.*
-- *Etc.*
+What do you want to learn, accomplish, or change in the near future?
 
-## Long Term Goals
+- *Take on a new responsibility.*
+- *Improve the way I collaborate with my team.*
+- *Build deeper expertise in a part of our system.*
+- *Practice communicating decisions to a different audience.*
 
-- *I want to be VP of a large tech company someday."*
-- *I am less concerned about traditional careeer goals and more concerned about stress and enjoying where I am."*
-- *I just want to have maximum impact on XYZ."*
-- *Etc.*
+### Long-Term Goals
 
-## Feedback From Your Last Review You Want To Work On
+What kind of work, impact, or life do you want to work toward? A different title can be a goal, but it doesn't have to be.
 
-- Think about self-improvement and where you want to grow.
-- *We talked about how I could be a better communicator.*
-- *Etc.*
+- *Lead larger projects that span multiple teams.*
+- *Become someone others trust for a specific kind of problem.*
+- *Increase my impact without sacrificing the parts of work I enjoy.*
+
+## Feedback I Want To Work On
+
+What came up in your last review or in recent conversations? What do you agree with, and where would you like help?
+
+- *Communicate technical trade-offs more clearly.*
+- *Ask for feedback earlier in a project.*
 
 ## Current Responsibilities
 
-### Current Title
+**Current title:** [Title]
 
-Senior software engineer
+**What I own today:**
 
-### Current Day To Day Ownership and Responsibilities
-
-- *Own backend technical decisiions for the team.*
-- *Etc.*
+- [Responsibility or decision area]
+- [Responsibility or decision area]
 
 ## Desired Responsibilities
 
-### Desire Title
+**Desired title, if relevant:** [Title or not applicable]
 
-Staff engineer
+**Work I want to grow into:**
 
-### Desired Responsibilities
+- [Scope, skill, or area of influence]
+- [Scope, skill, or area of influence]
 
-- *Own large architectural decisions on the backend.*
-- *Etc.*
+## Growth Areas and Actions
 
-## What You Need To Do To Meet Your Goals
+What skills, experience, or relationships will help you move toward these goals?
 
-Actions here should be themed around growth areas and skill gaps.
+1. [Growth area and the reason it matters]
+1. [Opportunity to practice it]
+1. [How you will know you are making progress]
 
-1. *Improve communication with a non-technical audience.
-1. *Take on larger projects.*
-1. *Mentor others.*
-1. *Complete a training course.*
-1. *Etc.*
+## Support I Need From My Manager
 
-## What Do You Need From Your Manager To Meet Your Goals
+- [Feedback, coaching, introductions, or opportunities]
+- [An obstacle my manager can help remove]
 
-1. *Support me as I take on larger projects.*
-1. *Get feedback from other employees.*
-1. *Etc.*
+## Feedback From My Manager
 
-## What Your Manager Thinks You Need To Do To Achieve Your Goals
+- [Strengths to build on]
+- [Gaps or opportunities to develop]
+- [Experiences that could help]
 
-1. *Develop expertise in new technology.*
-1. *Respond to PRs faster.*
-1. *Etc.*
+## Concrete Next Steps
 
-## What Concrete Steps Can You Take To Achieve Your Goals
+Keep a small number of active commitments and revisit them in your 1:1s.
 
-See [SMART Goals](/growth/smart-goals.md)
+| Action | Evidence of Progress | Target Check-in | Support Needed |
+| --- | --- | --- | --- |
+| [What I will do] | [How we'll know] | [Date] | [What I need] |
+| [What I will do] | [How we'll know] | [Date] | [What I need] |
 
-- *Demonstrate leadership abilities by leading and completing project X. Present results at All-Hands.*
-- *Develop skills in REST APIs by implementing 7 new endpoints.*
-- *Test 2 ideas for improving deployment times.*
-- *Improve organization skills by using a meeting template for meetings that you plan.*
-- *Etc.*
+Your plan should change as you learn more about what you want. It is a conversation, not a contract.
