@@ -78,7 +78,7 @@ I live in Knoxville, TN with my wife, our 3 kids, our dog, and our cat. I love t
 
 ### Growth
 
-- [Career Development Plan](growth/career-development-plan.md)
+- [Career Development Plan](templates/career-development-plan.md)
 - [SMART Goals](growth/smart-goals.md)
 
 ### Meetings
