@@ -57,7 +57,7 @@ I live in Knoxville, TN with my wife, our 3 kids, our dog, and our cat. I love t
 
 ## How to Use This Playbook
 
-- Skim the index below and jump to what you need now.
+- Skim the [index](INDEX.md) and jump to what you need now.
 - Use it async: link docs in issues/PRs so context lives here.
 - Bring questions or gaps to our 1:1s; open an issue/PR for updates.
 
@@ -72,56 +72,4 @@ I live in Knoxville, TN with my wife, our 3 kids, our dog, and our cat. I love t
 
 ## Index
 
-### Communication
-
-- [Asynchronous Messaging](communication/asynchronous-messaging.md)
-
-### Growth
-
-- [Career Development Plan](templates/career-development-plan.md)
-- [SMART Goals](growth/smart-goals.md)
-
-### Meetings
-
-- [One-on-Ones](meetings/one-on-ones.md)
-- [Retrospectives](meetings/retrospectives.md)
-
-### Process
-
-- [Sizing](process/sizing.md)
-
-### Product
-
-- [Product Management](product/product-management.md)
-
-### Reviews
-
-- [Review Conversations](reviews/review-conversations.md)
-
-### Strategy
-
-- [Goals](strategy/goals.md)
-- [Strategy](strategy/strategy.md)
-
-### Team
-
-- [Competencies](team/competencies.md)
-- [Parting Ways](team/parting-ways.md)
-- [Team Sizing](team/team-sizing.md)
-- [Team States](team/team-states.md)
-
-### Templates
-
-- [Async Message](templates/async-message.md)
-- [Career Development Plan](templates/career-development-plan.md)
-- [Decision Brief](templates/decision-brief.md)
-- [Detailed Design Document](templates/detailed-design-document.md)
-- [Issue](templates/issue.md)
-- [One-on-One Agenda](templates/one-on-one-agenda.md)
-- [Post-Mortem](templates/post-mortem.md)
-- [PRD](templates/prd.md)
-- [Retro Notes](templates/retro-notes.md)
-- [Review Brief](templates/review-brief.md)
-- [Strategy](templates/strategy.md)
-- [Team Charter](templates/team-charter.md)
-- [Weekly Update](templates/weekly_update.md)
+See the [playbook index](INDEX.md) for guides and templates.
