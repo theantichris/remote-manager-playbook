@@ -169,6 +169,8 @@ What's the smallest useful thing we could do to validate our assumptions or redu
 
 This outline should help people understand the opportunity and make decisions without requiring an extensive document.
 
+For opportunities that need more detail, see the [PRD template](../templates/prd.md).
+
 ## Measuring Success
 
 Shipping a feature isn't the same as delivering value.
