@@ -16,7 +16,7 @@ If you need something between meetings, don't wait for our next 1:1. Reach out w
 
 ## Shared Agenda
 
-We'll maintain a shared agenda where we can both add topics, questions, and notes.
+We'll maintain a shared agenda where we can both add topics, questions, and notes. The [One-on-One Agenda](../templates/one-on-one-agenda.md) provides a flexible structure for check-ins, our respective topics, career growth and feedback, and follow-up.
 
 I encourage you to add anything you'd like to discuss before we meet, but you don't need to prepare a formal agenda every time.
 
@@ -34,9 +34,7 @@ Here are some areas we'll typically cover.
 
 I want to know how you're doing, not just how your projects are going.
 
-- How are you feeling about your workload and energy?
-- What's been taking up most of your mental bandwidth?
-- How are things going for you generally?
+I want to understand how you're feeling, how your workload is affecting you, and what's taking up your attention.
 
 You don't have to share anything about your personal life that you're not comfortable sharing. My goal is to understand how you're doing and whether there's anything I can do to support you.
 
@@ -44,11 +42,7 @@ You don't have to share anything about your personal life that you're not comfor
 
 This is the most important part of our conversation.
 
-- What's the most important thing you'd like to talk about?
-- What's going well?
-- Where are you experiencing friction or uncertainty?
-- Are there decisions, challenges, or relationships you'd like help navigating?
-- Is there anything you'd like to change about how we work together?
+Bring whatever matters most to you, whether that's a win, a challenge, a decision, a relationship, or something you'd like to change about how we work together.
 
 You don't need to have solutions or even fully formed questions. Sometimes talking through a problem is the best way to understand it.
 
@@ -56,14 +50,7 @@ You don't need to have solutions or even fully formed questions. Sometimes talki
 
 I'll bring topics when there's something I think we should discuss.
 
-These may include:
-
-- Feedback, both positive and constructive.
-- Cross-functional collaboration and relationships.
-- Opportunities to expand your responsibilities or impact.
-- Career development and growth.
-- Challenges or opportunities I've noticed.
-- Commitments or conversations we need to follow up on.
+That might be feedback, a cross-functional challenge, an opportunity to grow, or something we need to follow up on.
 
 I'll do my part to come prepared. I don't expect you to carry the entire responsibility for making our 1:1s valuable.
 
@@ -89,11 +76,7 @@ You don't need to wait for a 1:1 to give or receive feedback, particularly when 
 
 Before we finish, we'll make sure we're clear about any commitments or next steps.
 
-A few questions I like to ask:
-
-- Is there anything we didn't get to that needs more attention?
-- What can I do differently to better support you?
-- Are there any actions we need to take before our next meeting?
+We'll check whether anything needs more time, what I can do differently to support you, and what we each need to follow up on.
 
 We'll capture important action items in our shared notes so neither of us has to rely on memory.
 
