@@ -1,61 +1,114 @@
 # SMART Goals
 
-A SMART Goal is a specific, measurable, achievable, relevant, time-bound goal. By using SMART goals you can create clear and actionable objectives that will help you reach your desired outcomes.
+Goals help us identify where we want to go and make meaningful progress toward getting there. A good goal should give us direction, help us focus our efforts, and provide a way to recognize progress.
+
+SMART is a framework for making goals more actionable. It stands for **Specific, Measurable, Achievable, Relevant, and Time-bound**.
+
+I find SMART goals useful for professional development, but I don't believe every aspiration needs to fit neatly into a framework. Sometimes we're still figuring out what we want, and that's okay.
+
+The goal isn't to create a perfect SMART goal. It's to give ourselves something meaningful to work toward.
 
 ## Specific
 
-Your goal should be clear, well-defined, and clearly understood. Define what you want to accomplish and the actions you will take.
+Be clear about what you want to accomplish.
 
-"I want to lose weight" is more specific than "I want to be healthier".
+Vague goals make it difficult to know where to focus your efforts or recognize when you've made progress.
+
+Instead of:
+
+> I want to become a better communicator.
+
+Try:
+
+> I want to improve how I communicate technical decisions and trade-offs to people outside my team.
 
 ## Measurable
 
-Your goal should have a clear metric so you can track your progress.
+Identify how you'll recognize progress or know when you've achieved your goal.
 
-"I want to run a marathon" is measurable but "I want to improve my running" isn't.
+Not everything meaningful can be measured with a number. Sometimes progress is demonstrated through changes in behavior, feedback from others, or your ability to take on new responsibilities.
+
+Consider:
+
+- What will I be able to do that I can't do today?
+- What behaviors or outcomes will demonstrate improvement?
+- What feedback or evidence could help me evaluate my progress?
+
+Avoid inventing arbitrary metrics simply to make something measurable.
 
 ## Achievable
 
-Your goal should be realistic and attainable with your resources and ability. Setting lofty goals could be good but if you can't accomplish them you could lose motivation and momentum. If a goal seems too large you could break it down into multiple smaller goals.
+Your goal should challenge you while remaining realistic given your responsibilities, resources, and opportunities.
 
-"I want to learn how to play the guitar in a month" could be attainable for someone with the time and motivation but it may not be for others.
+Growth often requires stepping outside your comfort zone, but setting unrealistic expectations can create frustration rather than progress.
+
+If a goal feels too large, break it into smaller steps that allow you to build experience and confidence along the way.
 
 ## Relevant
 
-Your goal should align with your priorities as well as those of your team and organization and be something you truly want to do. To help see alignment you could list the key benefits of accomplishing the goal.
+Your goals should matter to you and align with where you want to grow.
 
-"I want to start my own business" might be relevant if that has been something you've wanted to do.
+Think about how the goal connects to your interests, career aspirations, current responsibilities, or the impact you want to have.
+
+A goal shouldn't exist simply because your manager thinks it's something you should pursue.
+
+Career development is personal, and success looks different for everyone.
 
 ## Time-bound
 
-You should set a deadline or time frame for completing your goal or evaluating your success.
+Establish a reasonable timeframe for working toward your goal and reviewing progress.
 
-"I want to finish this project by the end of the month."
+Not every goal needs a hard deadline. Some skills take months or years to develop, and meaningful growth doesn't always happen on a predictable schedule.
 
-## Examples
+Set a timeframe that encourages progress while allowing room to learn and adjust.
 
-### Professional Goal: "I'm going to increase sales"
+## Example: Improving Technical Communication
 
-- Specific: "I am going to learn about social media marketing and invest in a social media management platform to start growing an online audience of potential customers."
-- Measurable: "The goal is to increase sales by 30% within the next quarter."
-- Achievable: "I can afford a subscription to Zoho Social, and I have a moderately successful business that can handle a large increase in customer demand."
-- Relevant: "I want to grow my sales volume so that I can buy a new vehicle for my business."
-- Time-bound: "I will subscribe to Zoho Social tomorrow and go through all of their instructional material to learn how the platform works. I will build a social media strategy and deploy it in two weeks."
+**Goal:**
 
-### Personal Goal: "I'm going to get in shape."
+Over the next quarter, I'll improve my ability to communicate technical decisions across teams by leading two technical design discussions, documenting the decisions and trade-offs, and gathering feedback from participants on the clarity and effectiveness of my communication.
 
-- Specific: "I am going to get at least 30 minutes of exercise three days a week and cut my caloric intake by 25%."
-- Measurable: "My goal is to lose 15 pounds within the next three months."
-- Achievable: "I already have a rowing machine and can afford to buy fresh, nutritious food for myself and my family."
-- Relevant: "I want to live a healthier lifestyle so that I feel better physically and mentally in my daily life."
-- Time-bound: "I will go to the grocery store tomorrow after work and buy healthy food for the week. I will use my rowing machine for 30 minutes before cooking dinner. I will use the rower three times per week."
+**Specific:** Focuses on communicating technical decisions and trade-offs across teams.
 
-## Source
+**Measurable:** Includes two opportunities to practice, written decision summaries, and feedback to evaluate improvement.
 
-## Using SMART in 1:1s and Reviews
+**Achievable:** Creates opportunities to develop the skill through normal engineering work.
 
-- We'll track 1-2 active SMART goals in our shared 1:1 agenda.
-- Use them as anchors in reviews: evidence, outcomes, and what you learned.
-- Keep goals small enough to show progress in weeks, not quarters.
+**Relevant:** Supports stronger collaboration, technical leadership, and cross-team influence.
 
-[The Ultimate Guide To S.M.A.R.T. Goals](https://www.forbes.com/advisor/business/smart-goals/)
+**Time-bound:** Establishes a quarter for practicing the skill and evaluating progress.
+
+Notice that the goal isn't simply to lead two meetings. Those meetings are opportunities to practice. **The outcome we're working toward is becoming a more effective communicator.**
+
+## Using SMART Goals for Career Development
+
+SMART goals work best when they're connected to something you genuinely want to accomplish.
+
+Start by identifying an area where you'd like to grow. Then work with your manager to turn that aspiration into concrete opportunities to practice, learn, and demonstrate progress.
+
+A few things to keep in mind:
+
+- **Focus on one or two goals at a time.** Trying to improve everything at once makes meaningful progress difficult.
+- **Prioritize outcomes over activities.** Completing a course, reading a book, or attending a meeting isn't necessarily growth. What matters is how you apply what you've learned.
+- **Look for opportunities in your everyday work.** Projects, collaboration, mentoring, and new responsibilities often provide the best opportunities to develop.
+- **Make room for experimentation.** You won't always know the best path forward. Try things, learn from the results, and adjust.
+- **Don't force every aspiration into SMART.** Exploration, discovery, and figuring out what you want are valuable parts of career development.
+
+See the [Career Development Plan](../templates/career-development-plan.md) for a way to connect goals with broader career aspirations.
+
+## Reviewing Progress
+
+Use regular 1:1s to discuss progress, challenges, and what you're learning. Periodically, step back and evaluate whether the goals themselves are still meaningful.
+
+Ask yourself:
+
+- What progress have I made?
+- What evidence demonstrates that progress?
+- What have I learned?
+- What's getting in my way?
+- Do I need to adjust my approach?
+- Is this goal still important to me?
+
+Goals aren't contracts. They're tools to help us focus on what's important and make progress toward the things we want to accomplish.
+
+**The value of a goal isn't in how well it's written. It's in the growth and outcomes it helps us achieve.**
