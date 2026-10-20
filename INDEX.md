@@ -4,6 +4,10 @@
 
 - [Asynchronous Messaging](communication/asynchronous-messaging.md)
 
+## Engineering
+
+- [Non-Functional Requirements](engineering/non-functional-requirements.md)
+
 ## Growth
 
 - [Career Development Plan](templates/career-development-plan.md)
@@ -16,6 +20,7 @@
 
 ## Process
 
+- [DRI Weekly Rhythm](process/dri-weekly-rhythm.md)
 - [Pants Based Sizing](process/sizing.md)
 
 ## Product
