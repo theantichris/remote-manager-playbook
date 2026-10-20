@@ -16,15 +16,15 @@ Review the actions from our last retrospective.
 
 ### What Went Well?
 
-- 
+- [What went well]
 
 ### What Could Be Better?
 
-- 
+- [Opportunity to improve]
 
 ### Questions & Observations
 
-- 
+- [Question or observation]
 
 ## Themes & Discussion
 
