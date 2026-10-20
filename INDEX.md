@@ -27,6 +27,16 @@
 
 - [Product Management](product/product-management.md)
 
+## Prompts
+
+- [Draft a Design Document](prompts/Draft a Design Document.md)
+- [Explain Technical Work to Nontechnical Stakeholders](prompts/Explain Technical Work to Nontechnical Stakeholders.md)
+- [Prepare for a Meeting](prompts/Prepare for a Meeting.md)
+- [Recover Meeting Decisions and Follow-up Ownership](prompts/Recover Meeting Decisions and Follow-up Ownership.md)
+- [Recover the Reasoning Behind a Technical Decision](prompts/Recover the Reasoning Behind a Technical Decision.md)
+- [Review a Technical Specification](prompts/Review a Technical Specification.md)
+- [Summarize a Long Document for Leadership](prompts/Summarize a Long Document for Leadership.md)
+
 ## Reviews
 
 - [Review Conversations](reviews/review-conversations.md)
