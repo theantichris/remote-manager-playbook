@@ -29,13 +29,13 @@
 
 ## Prompts
 
-- [Draft a Design Document](prompts/Draft a Design Document.md)
-- [Explain Technical Work to Nontechnical Stakeholders](prompts/Explain Technical Work to Nontechnical Stakeholders.md)
-- [Prepare for a Meeting](prompts/Prepare for a Meeting.md)
-- [Recover Meeting Decisions and Follow-up Ownership](prompts/Recover Meeting Decisions and Follow-up Ownership.md)
-- [Recover the Reasoning Behind a Technical Decision](prompts/Recover the Reasoning Behind a Technical Decision.md)
-- [Review a Technical Specification](prompts/Review a Technical Specification.md)
-- [Summarize a Long Document for Leadership](prompts/Summarize a Long Document for Leadership.md)
+- [Draft a Design Document](prompts/Draft%20a%20Design%20Document.md)
+- [Explain Technical Work to Nontechnical Stakeholders](prompts/Explain%20Technical%20Work%20to%20Nontechnical%20Stakeholders.md)
+- [Prepare for a Meeting](prompts/Prepare%20for%20a%20Meeting.md)
+- [Recover Meeting Decisions and Follow-up Ownership](prompts/Recover%20Meeting%20Decisions%20and%20Follow-up%20Ownership.md)
+- [Recover the Reasoning Behind a Technical Decision](prompts/Recover%20the%20Reasoning%20Behind%20a%20Technical%20Decision.md)
+- [Review a Technical Specification](prompts/Review%20a%20Technical%20Specification.md)
+- [Summarize a Long Document for Leadership](prompts/Summarize%20a%20Long%20Document%20for%20Leadership.md)
 
 ## Reviews
 
