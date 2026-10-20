@@ -16,7 +16,7 @@
 
 ## Process
 
-- [Sizing](process/sizing.md)
+- [Pants Based Sizing](process/sizing.md)
 
 ## Product
 
@@ -29,7 +29,7 @@
 ## Strategy
 
 - [Goals](strategy/goals.md)
-- [Strategy](strategy/strategy.md)
+- [Strategy and Vision](strategy/strategy.md)
 
 ## Team
 
