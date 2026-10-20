@@ -1,17 +1,42 @@
 # Async Message: {{title}}
 
-- Context: what's going on and why it matters.
-- Ask/Decision: what you need from whom.
-- Owner(s): who's responsible for the next step.
-- Deadline/Timezone: when you need it and in which TZ.
-- Links/Docs: supporting info.
+A useful asynchronous message provides enough context for people to understand what's happening and makes the next step clear.
+
+Not every message needs every component. Include what's relevant and leave out what isn't.
+
+## Context
+
+What's happening, why does it matter, and what does the reader need to know?
+
+[Briefly describe the situation and relevant background.]
+
+## Purpose / Ask
+
+What do you need from the reader?
+
+[Are you sharing information, asking a question, requesting feedback, proposing a decision, or asking someone to take action?]
+
+If you're only sharing information, make that clear. For example: "FYI, no response needed."
+
+## Owner(s)
+
+Who needs to respond, make a decision, or take action?
+
+[Name the appropriate person or people when action is required.]
+
+## Timing
+
+When do you need a response or decision?
+
+[Include a deadline and time zone when appropriate. Not every message requires a deadline.]
+
+## Links & References
+
+Include any relevant documents, issues, PRs, or other information that provides additional context.
+
+- [Link]
+- [Link]
 
 ---
 
-Example
-
-- Context: Checkout errors spiked to 2.4% after today's deploy; logs point to tax calc.
-- Ask: Product + Eng to decide rollback vs. hotfix.
-- Owner(s): @alex (Eng), @jordan (PM)
-- Deadline/Timezone: Need a decision by 3pm ET today.
-- Links: dashboard, Sentry #123, PR #456
+For additional guidance and examples, see [Asynchronous Messaging](../communication/asynchronous-messaging.md).
