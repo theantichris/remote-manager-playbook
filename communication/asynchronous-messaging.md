@@ -13,13 +13,11 @@ The goal isn't to eliminate meetings or conversations. It's to make sure people 
 
 ## Template
 
-Not every message needs every component, but this is a useful starting point.
+For a ready-to-use outline, see the [Async Message template](../templates/async-message.md).
 
-- **Context:** What's going on and why does it matter?
-- **Ask/Decision:** What do you need, if anything?
-- **Owner(s):** Who is responsible for responding or taking action?
-- **Deadline/Timezone:** When do you need a response?
-- **Links/Docs:** Where can someone find additional context?
+It covers context, purpose, ownership, timing, and supporting references.
+
+Not every message needs every component. Include what's relevant and leave out what isn't.
 
 ## Examples
 
