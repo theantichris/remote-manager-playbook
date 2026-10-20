@@ -35,6 +35,8 @@ Before the retrospective:
 
 Allowing people to contribute asynchronously can help everyone organize their thoughts and give people who process information differently an opportunity to participate.
 
+Use the [Retro Notes template](../templates/retro-notes.md) to capture reflections, decisions, and improvements.
+
 ## Running the Retrospective
 
 ### 1. Review Previous Improvements
