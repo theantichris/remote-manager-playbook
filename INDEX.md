@@ -52,6 +52,7 @@
 ## Team
 
 - [Competencies](team/competencies.md)
+- [Engineer Onboarding](team/engineer-onboarding.md)
 - [Parting Ways](team/parting-ways.md)
 - [Team Sizing](team/team-sizing.md)
 - [Team States](team/team-states.md)
