@@ -31,7 +31,7 @@ Track requested, granted, and verified access separately. An invitation being se
 - [ ] Check existing company orientation sessions before adding meetings.
 - [ ] Schedule an initial manager 1:1 and a separate buddy introduction. Put the manager conversation first when practical so we can establish context before diving into setup.
 - [ ] Confirm availability, time zones, and the corporate email before sending invitations. Check for conflicts and existing invitations.
-- [ ] Arrange a weekly 30-minute [1:1](../meetings/one-on-ones.md).
+- [ ] Arrange a regular 30-minute [1:1](../meetings/one-on-ones.md), starting weekly and adjusting the cadence together.
 - [ ] Add the engineer to relevant recurring meetings and share the team calendar. These are separate steps; one doesn't guarantee the other.
 - [ ] List the initial chat channels with links, including team, project, support, and announcement channels. Arrange invitations for private channels.
 - [ ] Leave time for setup, reading, and self-directed exploration. Label that time clearly so an empty calendar doesn't feel like missing instructions.
@@ -80,8 +80,8 @@ For the first independent change, review the before-and-after behavior and relev
 
 The focus is contributing with increasing independence. Example milestones to adapt:
 
-- Deliver a small change independently, with the buddy available for support.
-- Explain how the change was verified and review the result with the relevant partners.
+- Make a meaningful contribution with appropriate support, such as a technical design, investigation, evaluation, or code change.
+- Explain how the contribution was evaluated or verified and review the result with the relevant partners.
 - Take responsibility for an agreed part of an existing project or system.
 - Fill in a [career development plan](../templates/career-development-plan.md) and discuss growth interests in our 1:1.
 
@@ -103,7 +103,7 @@ Keep the live inventory in the issue tracker. A list of inherited tickets is a s
 
 The focus is delivering and owning the agreed work with appropriate support. This can build on the work started earlier; there is no need to invent a separate capstone project.
 
-- Review a delivered change: what improved for customers or the team, how we verified it, and what still needs follow-up.
+- Review a meaningful contribution: what improved for customers or the team, how we evaluated it, and what still needs follow-up.
 - Confirm ongoing ownership and backup coverage for the agreed areas.
 - Update the relevant documentation with how the system works, common troubleshooting steps, and who can help.
 - Share the work in an existing team meeting when useful, then agree on the next priorities.
