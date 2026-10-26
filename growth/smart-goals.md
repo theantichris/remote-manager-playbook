@@ -84,7 +84,7 @@ Notice that the goal isn't simply to lead two meetings. Those meetings are oppor
 
 SMART goals work best when they're connected to something you genuinely want to accomplish.
 
-Start by identifying an area where you'd like to grow. Then work with your manager to turn that aspiration into concrete opportunities to practice, learn, and demonstrate progress.
+First, write or update your career vision and discuss it with your manager. Then choose a growth priority and use SMART where it helps turn that aspiration into concrete opportunities to practice, learn, and demonstrate progress.
 
 A few things to keep in mind:
 

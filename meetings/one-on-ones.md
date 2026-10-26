@@ -58,7 +58,7 @@ I'll do my part to come prepared. I don't expect you to carry the entire respons
 
 Your growth is important to me, and I want us to make time for it regularly.
 
-We'll use your [Career Development Plan](../templates/career-development-plan.md) to explore where you want to go, identify opportunities, and make progress toward your goals.
+Start by writing or updating the career vision in your [Career Development Plan](../templates/career-development-plan.md). We'll discuss it together before choosing growth priorities and actions, then use our 1:1s to review what you're learning and the support you need.
 
 Not every 1:1 needs to include a formal career development discussion, but I don't want us to save those conversations for performance reviews either.
 

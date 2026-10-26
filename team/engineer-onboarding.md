@@ -83,7 +83,7 @@ The focus is contributing with increasing independence. Example milestones to ad
 - Make a meaningful contribution with appropriate support, such as a technical design, investigation, evaluation, or code change.
 - Explain how the contribution was evaluated or verified and review the result with the relevant partners.
 - Take responsibility for an agreed part of an existing project or system.
-- Fill in a [career development plan](../templates/career-development-plan.md) and discuss growth interests in our 1:1.
+- Write or update the career vision in your [career development plan](../templates/career-development-plan.md) and discuss it in our 1:1 before choosing growth goals.
 
 Use the 60-day check-in to review the work and agree on the next scope of responsibility. Keep development goals in the organization's existing growth system rather than maintaining a duplicate onboarding version.
 
