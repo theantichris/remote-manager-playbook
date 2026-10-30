@@ -113,6 +113,21 @@ Office hours should be a useful collaboration channel rather than a formal escal
 
 Urgent issues should be raised immediately, not held until the next scheduled opportunity.
 
+## When a Commitment Is at Risk
+
+Commitments matter, but plans change. What matters is recognizing when something isn't going as expected and communicating early enough that we can do something about it.
+
+When a commitment is at risk:
+
+1. **Raise it early.** Don't wait until the deadline or the next weekly update.
+2. **Explain what changed.** Share the impact, what you know, and what you're still figuring out.
+3. **Recommend a path forward.** Consider adjusting scope, changing the timeline, or getting additional support.
+4. **Align on the next commitment.** Make sure the people affected understand the revised plan, then update the existing project tracker.
+
+Sometimes shit happens. Missing a commitment doesn't automatically mean someone failed. But we should be accountable for communicating risks, following through, and learning when things don't go as planned.
+
+**The goal is fewer surprises and better decisions, not pretending every plan will work perfectly.**
+
 ## Weekly Project Update Template
 
 Use this structure in the existing project tracker.
