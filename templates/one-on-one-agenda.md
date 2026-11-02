@@ -14,17 +14,9 @@ Our 1:1 is your time. Add anything you'd like to discuss, and don't feel obligat
 
 ## My Agenda
 
-- Feedback and observations.
-- Opportunities or challenges I've noticed.
-- Follow-up from previous conversations.
-
-## Career Growth & Feedback
-
-- Progress toward development goals.
-- Opportunities to learn, grow, or expand your impact.
-- Feedback in both directions.
-
-*We don't need to cover this every meeting, but we should revisit it regularly.*
+- Career growth
+- Feedback
+- What can I be doing to support you better?
 
 ## Action Items & Follow-up
 
